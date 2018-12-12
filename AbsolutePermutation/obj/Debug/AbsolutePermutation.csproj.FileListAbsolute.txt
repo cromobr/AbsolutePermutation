@@ -1,0 +1,7 @@
+C:\Users\bcromo\source\repos\AbsolutePermutation\AbsolutePermutation\obj\Debug\AbsolutePermutation.csproj.CoreCompileInputs.cache
+C:\Users\bcromo\source\repos\AbsolutePermutation\AbsolutePermutation\bin\Debug\AbsolutePermutation.exe.config
+C:\Users\bcromo\source\repos\AbsolutePermutation\AbsolutePermutation\bin\Debug\AbsolutePermutation.exe
+C:\Users\bcromo\source\repos\AbsolutePermutation\AbsolutePermutation\bin\Debug\AbsolutePermutation.pdb
+C:\Users\bcromo\source\repos\AbsolutePermutation\AbsolutePermutation\obj\Debug\AbsolutePermutation.exe
+C:\Users\bcromo\source\repos\AbsolutePermutation\AbsolutePermutation\obj\Debug\AbsolutePermutation.pdb
+C:\Users\bcromo\source\repos\AbsolutePermutation\AbsolutePermutation\obj\Debug\AbsolutePermutation.csprojAssemblyReference.cache

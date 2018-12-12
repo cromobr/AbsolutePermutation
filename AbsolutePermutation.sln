@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsolutePermutation", "AbsolutePermutation\AbsolutePermutation.csproj", "{73DD9582-1B3D-4C7C-91E5-E9B4D1D9E283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsolutePermutationTest", "AbsolutePermutationTest\AbsolutePermutationTest.csproj", "{5F088228-ECAB-4D83-BA6C-2CDE05D26C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73DD9582-1B3D-4C7C-91E5-E9B4D1D9E283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DD9582-1B3D-4C7C-91E5-E9B4D1D9E283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DD9582-1B3D-4C7C-91E5-E9B4D1D9E283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DD9582-1B3D-4C7C-91E5-E9B4D1D9E283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F088228-ECAB-4D83-BA6C-2CDE05D26C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F088228-ECAB-4D83-BA6C-2CDE05D26C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F088228-ECAB-4D83-BA6C-2CDE05D26C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F088228-ECAB-4D83-BA6C-2CDE05D26C62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9C97CC9-FAC1-4194-A28B-58F82C54A664}
+	EndGlobalSection
+EndGlobal
